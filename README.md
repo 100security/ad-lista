@@ -1,4 +1,4 @@
-Active Directory – Lista de Usuários com PowerShell (HTML, CSV e E-mail)
+# Active Directory – Lista de Usuários com PowerShell (HTML, CSV e E-mail)
 
 # Descrição
 Com este script é possível extrair todas as propriedades de um usuário do Active Directory além de receber um relatório por via e-mail.
